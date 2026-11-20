@@ -9,7 +9,7 @@ Dashboard interattiva per esplorare gli indicatori climatici storici (baseline) 
 La versione statica (`index.html`) funziona direttamente in qualsiasi browser (PC, Mac, smartphone o tablet) **senza bisogno di installare R**.
 
 ### Avvio rapido
-- **Online (GitHub Pages):** apri il link GitHub Pages del repository (vedi [README_GITHUB.md](README_GITHUB.md)).
+- **Online (GitHub Pages):** apri il link GitHub Pages del repository.
 - **In locale:** fai doppio clic su `index.html` per aprirlo nel browser (Chrome, Edge, Firefox, Safari).
 
 > **Nota sulla copertura dati:** `index.html` incorpora già tutte le mappe globali, l'elenco dei comuni italiani e le griglie locali dei 5 scenari per **tutta l'Italia e l'Europa** (`33°–61°N`, `12°W–36°E`). Se mantieni la cartella `web_data/grids/` accanto a `index.html`, la dashboard estrae i valori locali anche per **qualsiasi altra coordinata nel resto del mondo**.
